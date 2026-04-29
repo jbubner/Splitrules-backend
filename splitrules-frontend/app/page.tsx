@@ -1,3 +1,3 @@
 export default function Home() {
-    return <dic>Splitrules laeuft </div<;
+    return <div>Splitrules laeuft </div<;
     }
